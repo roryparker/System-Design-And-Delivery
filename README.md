@@ -3,14 +3,15 @@
 This is study materials for System Design and why it is important to new and current Software Engineers.
 
 Four Categories of Requirements Clarification - During requirements clarification, the interviewer starts to understand your level of expertise in systems design.
+
 Users - Understand who and how will use the system.
 * Help us understand what data we store in the system.
 Scale - Understand how our system will handle a growing amount of data.
-How much data is retrieved from the system.
-How much data is coming to the system.
-How many (texts, photos, videos, views) happen per second are processed by the system.
-How much data is queried per request
-How many read queries per second the system needs to process
+* How much data is retrieved from the system.
+* How much data is coming to the system.
+* How many (texts, photos, videos, views) happen per second are processed by the system.
+* How much data is queried per request
+* How many read queries per second the system needs to process
 Should we deal with sudden traffic spikes and how big they may be.
 Interviewer will help us define these numbers OR we may assume some reasonable values.
 Performance - We want to know how fast our system must be.
@@ -549,28 +550,4 @@ Hardware LB
 Hardware load balancers are powerful network device machines with many CPU cores, memory and they are optimized to handle very high throughput. Millions of requests per second.
 Software LB
 Software load balancer is only software that we install on hardware we choose. Many software load balancers are open source.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
