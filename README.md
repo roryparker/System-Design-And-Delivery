@@ -1,4 +1,4 @@
-# System-Design-And-Delivery
+# System Design and Delivery
 
 This is study materials for System Design and why it is important to new and current Software Engineers.
 
