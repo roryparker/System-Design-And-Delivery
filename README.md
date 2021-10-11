@@ -6,6 +6,7 @@ Four Categories of Requirements Clarification - During requirements clarificatio
 
 Users - Understand who and how will use the system.
 * Help us understand what data we store in the system.
+
 Scale - Understand how our system will handle a growing amount of data.
 * How much data is retrieved from the system.
 * How much data is coming to the system.
