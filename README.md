@@ -1,12 +1,10 @@
 # System-Design-And-Delivery
 
-This provides details about System Design and why it is important to new and current Software Engineers.
-
-
+This is study materials for System Design and why it is important to new and current Software Engineers.
 
 Four Categories of Requirements Clarification - During requirements clarification, the interviewer starts to understand your level of expertise in systems design.
 Users - Understand who and how will use the system.
-Help us understand what data we store in the system.
+* Help us understand what data we store in the system.
 Scale - Understand how our system will handle a growing amount of data.
 How much data is retrieved from the system.
 How much data is coming to the system.
