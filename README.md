@@ -13,15 +13,20 @@ Scale - Understand how our system will handle a growing amount of data.
 * How many (texts, photos, videos, views) happen per second are processed by the system.
 * How much data is queried per request
 * How many read queries per second the system needs to process
+
 Should we deal with sudden traffic spikes and how big they may be.
-Interviewer will help us define these numbers OR we may assume some reasonable values.
+* Interviewer will help us define these numbers OR we may assume some reasonable values.
+
 Performance - We want to know how fast our system must be.
-Help us quickly evaluate different design options
+* Help us quickly evaluate different design options
+
 Cost - Understand budget constraints.
+
+* Helps us evaluate technology stack.
+* Minimize development cost by leaning towards well-regarded open-source frameworks.
+* Future maintenance cost is a primary concern, consider public cloud services and automation for our design.
+
 As with coding interviews, if you do not ask questions, this is a warning sign for the interviewer.
-Helps us evaluate technology stack.
-Minimize development cost by leaning towards well-regarded open-source frameworks.
-Future maintenance cost is a primary concern, consider public cloud services and automation for our design.
 
 Interviewer will ask vague design questions to see how you deal with ambiguity
 Problems will be stated in a general manner.
