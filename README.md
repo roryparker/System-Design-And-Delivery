@@ -37,7 +37,8 @@ These questions are asked to understand how you approach design problems in real
 How you respond to the task and actions.
 
 Questions to ask interviewer: 
-Confirm what functional pieces of the problem we will focus on
+
+* Confirm what functional pieces of the problem we will focus on
 Clarify the requirements because there are so many different technology solutions.
 What does data analysis mean?
 How will the data be used?
